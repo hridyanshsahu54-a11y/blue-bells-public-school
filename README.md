@@ -1,4 +1,4 @@
-# Blue Wells Public School — Website Starter
+# Blue Bells Public School — Website Starter
 
 This is a responsive bilingual (English/Hindi) public-facing website prototype using the supplied school logo.
 

@@ -59,7 +59,7 @@ $("#enquiryForm").addEventListener("submit", (event) => {
   const parent = String(form.get("parent") || "").trim();
   const mobile = String(form.get("mobile") || "").trim();
   const studentClass = String(form.get("class") || "").trim();
-  const subject = encodeURIComponent("Admission enquiry — Blue Wells Public School");
+  const subject = encodeURIComponent("Admission enquiry — Blue Bells Public School");
   const body = encodeURIComponent(
     `Admission enquiry\nParent/Guardian: ${parent}\nMobile: ${mobile}\nClass of interest: ${studentClass}\n\nPlease contact me about the admission process.`
   );
